@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bd2n71ej5n555"]
+
+[ext_resource type="Script" uid="uid://s5euedh6ape1" path="res://RythymTimer/RythymTimer.cs" id="1_gshv6"]
+
+[node name="RythymTimer" type="Timer" unique_id=319324000]
+script = ExtResource("1_gshv6")
